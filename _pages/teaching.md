@@ -5,6 +5,7 @@ title: Teaching
 nav: true
 nav_order: 3
 _styles: >
+  article h2 { font-family: 'Roboto Slab', serif; font-weight: 400; color: var(--global-theme-color); }
   .video-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin: 1rem 0 2rem; }
   .video-grid iframe { width: 100%; height: auto; aspect-ratio: 16 / 9; }
   .video-grid .caption { text-align: center; margin-top: 0.5rem; }
@@ -14,7 +15,7 @@ _styles: >
 
 Since 2017, I have taught at the annual [CompuCell3D](https://compucell3d.org) Virtual Tissue Modeling Workshop, an international course that trains scientists at all career stages to build multicellular simulations. You can check the lectures online
 
-<div class="row mt-3">
+<div class="video-grid">
   <div>
     {% include video.liquid path="https://www.youtube.com/embed/Demyr4XQYdI" class="img-fluid rounded z-depth-1" %}
     <div class="caption">Somite segmentation (2020)</div>
