@@ -4,6 +4,9 @@ permalink: /teaching/
 title: Teaching
 nav: true
 nav_order: 3
+_styles:>
+  .video-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin: 1rem 0 2rem; }
+  .video-grid iframe { width: 100%; height: auto; aspect-ratio: 16 / 9; }
 ---
 
 ## CompuCell3D Workshop lectures
@@ -11,11 +14,11 @@ nav_order: 3
 Since 2017, I have taught at the annual [CompuCell3D](https://compucell3d.org) Virtual Tissue Modeling Workshop, an international course that trains scientists at all career stages to build multicellular simulations. You can check the lectures online
 
 <div class="row mt-3">
-  <div class="col-sm-6 mt-3 mt-md-0">
+  <div>
     {% include video.liquid path="https://www.youtube.com/embed/Demyr4XQYdI" class="img-fluid rounded z-depth-1" %}
     <div class="caption">Somite segmentation (2020)</div>
   </div>
-  <div class="col-sm-6 mt-3 mt-md-0">
+  <div>
     {% include video.liquid path="https://www.youtube.com/embed/gztA4ucU3z4" class="img-fluid rounded z-depth-1" %}
     <div class="caption">Cell lineage tracing (2022)</div>
   </div>
