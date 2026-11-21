@@ -32,5 +32,5 @@ I led laboratory and discussion sections for introductory physics (General Physi
 I was a TA for a graduate course on computational biology modeling methods.
 
 **IISER Kolkata** (2014–2015)<br>
-I was a TA for a course on computational physics using Fortran and introductory programming in Python .
+I was a TA for a course on computational physics using Fortran and introductory programming in Python.
 
