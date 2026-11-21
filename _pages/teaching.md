@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 nav: true
 nav_order: 3
-_styles:>
+_styles: >
   .video-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin: 1rem 0 2rem; }
   .video-grid iframe { width: 100%; height: auto; aspect-ratio: 16 / 9; }
 ---
