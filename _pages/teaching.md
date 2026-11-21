@@ -13,11 +13,11 @@ Since 2017, I have taught at the annual [CompuCell3D](https://compucell3d.org) V
 
 <div class="row mt-3">
   <div class="col-sm-6 mt-3 mt-md-0">
-    {% include video.liquid path="https://www.youtube.com/embed/<iframe width="560" height="315" src="https://www.youtube.com/embed/Demyr4XQYdI?si=tWSsEQ9IxsLKgifP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>" class="img-fluid rounded z-depth-1" %}
+    {% include video.liquid path="https://www.youtube.com/embed/Demyr4XQYdI" class="img-fluid rounded z-depth-1" %}
     <div class="caption">Somite segmentation (2020)</div>
   </div>
   <div class="col-sm-6 mt-3 mt-md-0">
-    {% include video.liquid path="https://www.youtube.com/embed/<iframe width="560" height="315" src="https://www.youtube.com/embed/gztA4ucU3z4?si=HhbL4nx-2SZKfsO1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>" class="img-fluid rounded z-depth-1" %}
+    {% include video.liquid path="https://www.youtube.com/embed/gztA4ucU3z4" class="img-fluid rounded z-depth-1" %}
     <div class="caption">Cell lineage tracing (2022)</div>
   </div>
 </div>
