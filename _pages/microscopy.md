@@ -18,15 +18,15 @@ Head crowns of three cnidarians, stained for actin (phalloidin) and nuclei (DAPI
 
 <div class="scope-grid">
   <figure>
-    <a href="/assets/img/microscopy/nematostella.jpg" target="_blank"><img src="/assets/img/microscopy/nematostella.jpg" alt="Nematostella head crown with tentacles radiating around the mouth, green fluorescence on black" loading="lazy"></a>
+    <a href="/assets/microscopy/nematostella.jpeg" target="_blank"><img src="/assets/microscopy/nematostella.jpeg" alt="Nematostella head crown with tentacles radiating around the mouth, green fluorescence on black" loading="lazy"></a>
     <figcaption><em>Nematostella vectensis</em></figcaption>
   </figure>
   <figure>
-    <a href="/assets/img/microscopy/aiptasia.jpg" target="_blank"><img src="/assets/img/microscopy/aiptasia.jpg" alt="Aiptasia head crown with many long curling tentacles, green and blue fluorescence on black" loading="lazy"></a>
+    <a href="/assets/microscopy/aiptasia.jpeg" target="_blank"><img src="/assets/microscopy/aiptasia.jpeg" alt="Aiptasia head crown with many long curling tentacles, green and blue fluorescence on black" loading="lazy"></a>
     <figcaption><em>Aiptasia</em></figcaption>
   </figure>
   <figure>
-    <a href="/assets/img/microscopy/hydra.jpg" target="_blank"><img src="/assets/img/microscopy/hydra.jpg" alt="Hydra head with five tentacles, green fluorescence on black" loading="lazy"></a>
+    <a href="/assets/microscopy/hydra.jpeg" target="_blank"><img src="/assets/microscopy/hydra.jpeg" alt="Hydra head with five tentacles, green fluorescence on black" loading="lazy"></a>
     <figcaption><em>Hydra</em></figcaption>
   </figure>
 </div>
