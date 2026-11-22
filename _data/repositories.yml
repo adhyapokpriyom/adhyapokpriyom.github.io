@@ -2,3 +2,8 @@ github_users:
   - adhyapokpriyom
 
 repo_description_lines_max: 2
+
+github_repos:
+  - padhyapok/notochord_area_plotter
+  - padhyapok/segmentation_index
+  - padhyapok/notochord_oscillator
