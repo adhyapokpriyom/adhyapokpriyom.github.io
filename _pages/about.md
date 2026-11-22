@@ -26,6 +26,9 @@ I study oscillators and how developing tissues keep time. In the zebrafish notoc
 
 I am currently a postdoc at Duke University with Michel Bagnat and Stefano Di Talia. Before moving to zebrafish, I did my PhD in physics at Indiana University Bloomington with James Glazier, where I built computational models of boundary formation in the chick embryo.
 
+Besides science, I enjoy gardening, watching reruns of Star Trek (Deep Space Nine/TNG/Voyager) and offering home made toys to my cat.
+
+## Featured Talk
 <style>
   .home-video { clear: both; max-width: 640px; margin: 2rem auto 1.5rem; padding-top: 0.5rem; }
   .home-video iframe { width: 100%; height: auto; aspect-ratio: 16 / 9; }
