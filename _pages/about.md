@@ -30,6 +30,7 @@ Besides science, I enjoy gardening, watching reruns of Star Trek (Deep Space Nin
 
 ## Featured Talk
 <style>
+  @media (min-width: 576px) { .profile { width: 24%; } }
   .home-video { clear: both; max-width: 640px; margin: 2rem auto 1.5rem; padding-top: 0.5rem; }
   .home-video iframe { width: 100%; height: auto; aspect-ratio: 16 / 9; }
   .home-video .caption { text-align: center; margin-top: 0.5rem; }
