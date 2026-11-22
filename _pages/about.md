@@ -28,7 +28,7 @@ I am currently a postdoc at Duke University with Michel Bagnat and Stefano Di Ta
 
 Besides science, I enjoy gardening, watching reruns of Star Trek (Deep Space Nine/TNG/Voyager) and offering home made toys to my cat.
 
-## Featured Talk
+## featured talk
 <style>
   @media (min-width: 576px) { .profile { width: 24%; } }
   .home-video { clear: both; max-width: 640px; margin: 2rem auto 1.5rem; padding-top: 0.5rem; }
