@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /imaging-and-code/
-title: "imaging & code"
+permalink: /tools-and-images/
+title: "tools & images"
 nav: true
 nav_order: 4
 _styles: >
